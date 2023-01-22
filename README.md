@@ -1,5 +1,5 @@
-# Automatic-Hand-Sanitizer
-Building an automatic hand sanitizer using MSP430F5529 Launchpad
+# Automatic Hand Sanitizer
+As part of my college's 'Microcontrollers and Applications(MCA)' course, I designed an automatic hand sanitizing system using the MSP430F5529 microcontroller.
 
 ## Components Used:
 
@@ -8,6 +8,12 @@ Building an automatic hand sanitizer using MSP430F5529 Launchpad
 3) 5V DC Power Supply
 
 ## [PPT Presentation](https://github.com/bopardikarsoham/Automatic-Hand-Sanitizer/blob/main/T2MCAPPT.pptx.pdf)
+
+## Proteus Simulation Diagram
+
+
+![image](https://user-images.githubusercontent.com/77266161/213925125-91abeca7-3c84-46c6-b622-379a4a525302.png)
+
 
 
 
